@@ -39,25 +39,6 @@ The project improves information retrieval by using both contextual embeddings a
 - **sentence-transformers**: For BERT-based sentence embeddings.
 - **matplotlib**: Data visualization (bar charts).
 - **tabulate**: Tabular data display.
-  
----
-
-## Example Results
--**Input Query** : "Science Fiction"
--**Output(TF-IDF)** :
-+----------------------+--------------------+----------------+----------------+
-|        Book          |      Author(s)    |     Genre      | tfidf_similarity |
-+----------------------+--------------------+----------------+----------------+
-| The Time Machine     | H.G. Wells        | Sci-Fi         |       0.87       |
-| Dune                 | Frank Herbert     | Sci-Fi         |       0.81       |
-+----------------------+--------------------+----------------+----------------+
--**Output(BERT)** :
-+----------------------+--------------------+----------------+----------------+
-|        Book          |      Author(s)    |     Genre      | bert_similarity |
-+----------------------+--------------------+----------------+----------------+
-| The Time Machine     | H.G. Wells        | Sci-Fi         |       0.92       |
-| Dune                 | Frank Herbert     | Sci-Fi         |       0.88       |
-+----------------------+--------------------+----------------+----------------+
 ---
 ## Visualization
 
