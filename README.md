@@ -49,7 +49,7 @@ The project improves information retrieval by using both contextual embeddings a
 - Shows a bar chart of books ranked by their **BERT similarity scores**.
 ---
 ### Future Enhancements:
--1.Explore combining BERT and TF-IDF scores for hybrid ranking.
--2.Extend the dataset with more book attributes for richer queries.
--3.Develop a web-based interface for easier interaction.
+- 1.Explore combining BERT and TF-IDF scores for hybrid ranking.
+- 2.Extend the dataset with more book attributes for richer queries.
+- 3.Develop a web-based interface for easier interaction.
 
